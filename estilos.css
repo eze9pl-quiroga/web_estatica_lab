@@ -4,8 +4,8 @@ head {
 body {
    
     font-family: Arial, sans-serif;
-    font-size: 18px;
-    color: red;
+    font-size: 25px;
+    color: rgb(191, 27, 90);
     background-color: rgb(76, 195, 112);
     padding: 20px;
     margin: 15px auto;
@@ -15,8 +15,6 @@ body {
  h1 {
     color:rgb(99, 42, 165);
     text-align: center;
-    asdasd
 }
-
 
 
